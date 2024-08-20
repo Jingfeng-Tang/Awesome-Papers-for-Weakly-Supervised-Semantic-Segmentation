@@ -1,4 +1,4 @@
-# Awesome-Papers-Weakly-Supervised-Semantic-Segmentation-
+# Awesome-Papers-Weakly-Supervised-Semantic-Segmentation
 | No. | Paper | Venue | Code |
 |-----|-----|-----|-----|
 |0| [Spatial Structure Constraints for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10418852) | TIP2024 | https://github.com/NUST-Machine-Intelligence-Laboratory/SSC |
