@@ -18,6 +18,7 @@
 ## 2023
 | Title | Venue | Code |
 |-----|-----|-----|
+| [All-pairs Consistency Learning for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10350839) | ICCV2023 | -- |
 | [Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching](https://ieeexplore.ieee.org/abstract/document/10367821) | TIP2023 | -- |
 | [Memory-Based Cross-Image Contexts for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9873854) | TPAMI2023 | https://github.com/js-fan/MCIC |
 | [Background Activation Suppression for Weakly Supervised Object Localization and Semantic Segmentation](https://arxiv.org/pdf/2309.12943v1) | IJCV2023 | https://github.com/wpy1999/bas-extension |
