@@ -1,4 +1,4 @@
-# Awesome-Papers-Weakly-Supervised-Semantic-Segmentation
+# Awesome Papers for Weakly Supervised Semantic Segmentation
 
 
 ## 2024
