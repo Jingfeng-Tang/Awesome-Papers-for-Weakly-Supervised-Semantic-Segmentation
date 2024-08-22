@@ -25,7 +25,7 @@
 | [Wave-like Class Activation Map with Representation Fusion for Weakly-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10104136/) | WaveCAM | TMM2023 | https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/WaveCAM-TMM2023 |
 | [Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation](https://arxiv.org/pdf/2302.13765v1) | TSCD | AAAI2023 | https://github.com/rongtao-xu/representationlearning |
 | [Treating Pseudo-labels Generation as Image Matting for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/ICCV2023/papers/Wang_Treating_Pseudo-labels_Generation_as_Image_Matting_for_Weakly_Supervised_Semantic_ICCV_2023_paper.pdf) | -- | ICCV2023 | -- |
-| [WeakTr: Exploring Plain Vision Transformer for Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/2304.01184) | arXiv2023 | https://github.com/hustvl/weaktr |
+| [WeakTr: Exploring Plain Vision Transformer for Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/2304.01184) | WeakTr | arXiv2023 | https://github.com/hustvl/weaktr |
 | [Token Contrast for Weakly-Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2023/papers/Ru_Token_Contrast_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf) | ToCo | CVPR2023 | https://github.com/rulixiang/toco |
 
 
