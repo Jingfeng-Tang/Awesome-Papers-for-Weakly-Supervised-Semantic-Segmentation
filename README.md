@@ -4,6 +4,7 @@
 ## 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [Adaptive Activation Network for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10278492) | AANet | TMM2024 | -- |
 | [Class Activation Map Calibration for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10599238) | CPMC | TCSVT2024 | -- |
 | [Attention-based Layer Fusion and Token Masking for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10485473/) | ATM | TCSVT2024 | -- |
 | [DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Wu_DuPL_Dual_Student_with_Trustworthy_Progressive_Learning_for_Robust_Weakly_CVPR_2024_paper.pdf) | DuPL | CVPR2024 | https://github.com/wu0409/dupl |
