@@ -33,6 +33,8 @@
 ## 2022
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+
+| [Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/20108) | AMR | AAAI2022 | https://github.com/JayQine/AMR |
 | [Looking Beyond Single Images for Weakly Supervised Semantic Segmentation Learning](https://ieeexplore.ieee.org/abstract/document/9760057) | MCIS | TPAMI2022 | https://github.com/GuoleiSun/MCIS_wsss |
 | [Weakly-Supervised Semantic Segmentation with Visual Words Learning and Hybrid Pooling](https://arxiv.org/pdf/2202.04812v1) | VWE | IJCV2022 | https://github.com/rulixiang/vwe/tree/master/v2 |
 | [Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2022/papers/Chen_Self-Supervised_Image-Specific_Prototype_Exploration_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) | SIPE | CVPR2022 | https://github.com/chenqi1126/sipe |
