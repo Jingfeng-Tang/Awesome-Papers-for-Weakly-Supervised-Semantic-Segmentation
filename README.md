@@ -4,6 +4,7 @@
 ## 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10643440) | PLDA | TIP2024 | -- |
 | [Adaptive Activation Network for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10278492) | AANet | TMM2024 | -- |
 | [Class Activation Map Calibration for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10599238) | CPMC | TCSVT2024 | -- |
 | [Attention-based Layer Fusion and Token Masking for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10485473/) | ATM | TCSVT2024 | -- |
