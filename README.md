@@ -21,6 +21,7 @@
 ## 2023
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [Hierarchical Semantic Contrast for Weakly Supervised Semantic Segmentation](https://www.ijcai.org/proceedings/2023/0171.pdf) | HSC | IJCAI2023 | https://github.com/Wu0409/HSC_WSSS |
 | [Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching](https://ieeexplore.ieee.org/document/10367821) | ASDT | TIP2023 | https://anonymous.4open.science/r/ASDT-75D3 |
 | [All-pairs Consistency Learning for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10350839) | ACR | ICCV2023 | -- |
 | [Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching](https://ieeexplore.ieee.org/abstract/document/10367821) | ASDT | TIP2023 | -- |
