@@ -4,6 +4,7 @@
 ## 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [DINO is Also a Semantic Guider:Exploiting Class-aware Affinity for Weakly Supervised Semantic Segmentation](https://openreview.net/forum?id=qipYQAcvVG) | ECA | ACM MM 2024 | https://github.com/Wu0409/ECA |
 | [MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065) | MCTformer+ | TPAMI2024 | https://github.com/xulianuwa/MCTformer |
 | [Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10643440) | PLDA | TIP2024 | -- |
 | [Adaptive Activation Network for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10278492) | AANet | TMM2024 | -- |
