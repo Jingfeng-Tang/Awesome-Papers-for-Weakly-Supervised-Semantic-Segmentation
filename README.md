@@ -5,7 +5,7 @@
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
 | [Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2403.13225) | AGMM++ | arXiv2024 | https://github.com/Luffy03/AGMM-SASS |
-| [Class Tokens Infusion for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | CTI | CVPR 2024 | https://github.com/yoon307/CTI |
+| [Class Tokens Infusion for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | CTI | CVPR2024 | https://github.com/yoon307/CTI |
 | [DINO is Also a Semantic Guider:Exploiting Class-aware Affinity for Weakly Supervised Semantic Segmentation](https://openreview.net/forum?id=qipYQAcvVG) | ECA | ACM MM 2024 | https://github.com/Wu0409/ECA |
 | [MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065) | MCTformer+ | TPAMI2024 | https://github.com/xulianuwa/MCTformer |
 | [Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10643440) | PLDA | TIP2024 | -- |
