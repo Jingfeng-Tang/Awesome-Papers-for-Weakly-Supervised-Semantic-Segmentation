@@ -4,6 +4,7 @@
 ## 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | WeCLIP | CVPR2024 | https://github.com/zbf1991/WeCLIP |
 | [Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization](https://ieeexplore.ieee.org/document/9756329) | AdvCAM | TPAMI2024 | -- |
 | [Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2403.13225) | AGMM++ | arXiv2024 | https://github.com/Luffy03/AGMM-SASS |
 | [Class Tokens Infusion for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | CTI | CVPR2024 | https://github.com/yoon307/CTI |
