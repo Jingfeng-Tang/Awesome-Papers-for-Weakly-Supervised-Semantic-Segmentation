@@ -4,31 +4,31 @@
 ## 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
-| [Foundation Model Assisted Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_Foundation_Model_Assisted_Weakly_Supervised_Semantic_Segmentation_WACV_2024_paper.pdf) | FMA | WACV2024 | https://github.com/HAL-42/FMA-WSSS |
-| [Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | WeCLIP | CVPR2024 | https://github.com/zbf1991/WeCLIP |
-| [Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization](https://ieeexplore.ieee.org/document/9756329) | AdvCAM | TPAMI2024 | -- |
-| [Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2403.13225) | AGMM++ | arXiv2024 | https://github.com/Luffy03/AGMM-SASS |
-| [Class Tokens Infusion for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | CTI | CVPR2024 | https://github.com/yoon307/CTI |
+| [Foundation Model Assisted Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_Foundation_Model_Assisted_Weakly_Supervised_Semantic_Segmentation_WACV_2024_paper.pdf) | FMA | WACV 2024 | https://github.com/HAL-42/FMA-WSSS |
+| [Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | WeCLIP | CVPR 2024 | https://github.com/zbf1991/WeCLIP |
+| [Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization](https://ieeexplore.ieee.org/document/9756329) | AdvCAM | TPAMI 2024 | -- |
+| [Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2403.13225) | AGMM++ | arXiv 2024 | https://github.com/Luffy03/AGMM-SASS |
+| [Class Tokens Infusion for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | CTI | CVPR 2024 | https://github.com/yoon307/CTI |
 | [DINO is Also a Semantic Guider:Exploiting Class-aware Affinity for Weakly Supervised Semantic Segmentation](https://openreview.net/forum?id=qipYQAcvVG) | ECA | ACM MM 2024 | https://github.com/Wu0409/ECA |
-| [MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065) | MCTformer+ | TPAMI2024 | https://github.com/xulianuwa/MCTformer |
-| [Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10643440) | PLDA | TIP2024 | -- |
-| [Adaptive Activation Network for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10278492) | AANet | TMM2024 | -- |
-| [Class Activation Map Calibration for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10599238) | CPMC | TCSVT2024 | -- |
-| [Attention-based Layer Fusion and Token Masking for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10485473/) | ATM | TCSVT2024 | -- |
-| [DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Wu_DuPL_Dual_Student_with_Trustworthy_Progressive_Learning_for_Robust_Weakly_CVPR_2024_paper.pdf) | DuPL | CVPR2024 | https://github.com/wu0409/dupl |
-| [Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2305.08491v6) | MCC | WACV2024 | https://github.com/fwu11/mcc |
-| [Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Yang_Separate_and_Conquer_Decoupling_Co-occurrence_via_Decomposition_and_Representation_for_CVPR_2024_paper.pdf) | SeCo | CVPR2024 | https://github.com/zwyang6/seco |
-| [Tackling Ambiguity from Perspective of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2404.08195v1) | UniA | arXiv2024 | https://github.com/zwyang6/unia |
-| [Spatial Structure Constraints for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10418852) | SSC | TIP2024 | https://github.com/NUST-Machine-Intelligence-Laboratory/SSC |
-| [SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/28584) | SFC | AAAI2024 | https://github.com/Barrett-python/SFC |
-| [Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/27980) | -- | AAAI2024 | https://github.com/jessie459/feature-self-reinforcement |
+| [MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10538065) | MCTformer+ | TPAMI 2024 | https://github.com/xulianuwa/MCTformer |
+| [Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10643440) | PLDA | TIP 2024 | -- |
+| [Adaptive Activation Network for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10278492) | AANet | TMM 2024 | -- |
+| [Class Activation Map Calibration for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10599238) | CPMC | TCSVT 2024 | -- |
+| [Attention-based Layer Fusion and Token Masking for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10485473/) | ATM | TCSVT 2024 | -- |
+| [DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Wu_DuPL_Dual_Student_with_Trustworthy_Progressive_Learning_for_Robust_Weakly_CVPR_2024_paper.pdf) | DuPL | CVPR 2024 | https://github.com/wu0409/dupl |
+| [Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2305.08491v6) | MCC | WACV 2024 | https://github.com/fwu11/mcc |
+| [Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2024/papers/Yang_Separate_and_Conquer_Decoupling_Co-occurrence_via_Decomposition_and_Representation_for_CVPR_2024_paper.pdf) | SeCo | CVPR 2024 | https://github.com/zwyang6/seco |
+| [Tackling Ambiguity from Perspective of Uncertainty Inference and Affinity Diversification for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2404.08195v1) | UniA | arXiv 2024 | https://github.com/zwyang6/unia |
+| [Spatial Structure Constraints for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10418852) | SSC | TIP 2024 | https://github.com/NUST-Machine-Intelligence-Laboratory/SSC |
+| [SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/28584) | SFC | AAAI 2024 | https://github.com/Barrett-python/SFC |
+| [Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/27980) | -- | AAAI 2024 | https://github.com/jessie459/feature-self-reinforcement |
 
 
 ## 2023
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
-| [Sparsely Annotated Semantic Segmentation with Adaptive Gaussian Mixtures](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Sparsely_Annotated_Semantic_Segmentation_With_Adaptive_Gaussian_Mixtures_CVPR_2023_paper.pdf) | AGMM | CVPR2023 | https://github.com/Luffy03/AGMM-SASS |
-| [CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2023/papers/Lin_CLIP_Is_Also_an_Efficient_Segmenter_A_Text-Driven_Approach_for_CVPR_2023_paper.pdf) | CLIP-ES | CVPR2023 | https://github.com/linyq2117/clip-es |
+| [Sparsely Annotated Semantic Segmentation with Adaptive Gaussian Mixtures](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Sparsely_Annotated_Semantic_Segmentation_With_Adaptive_Gaussian_Mixtures_CVPR_2023_paper.pdf) | AGMM | CVPR 2023 | https://github.com/Luffy03/AGMM-SASS |
+| [CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com//content/CVPR2023/papers/Lin_CLIP_Is_Also_an_Efficient_Segmenter_A_Text-Driven_Approach_for_CVPR_2023_paper.pdf) | CLIP-ES | CVPR 2023 | https://github.com/linyq2117/clip-es |
 | [Hierarchical Semantic Contrast for Weakly Supervised Semantic Segmentation](https://www.ijcai.org/proceedings/2023/0171.pdf) | HSC | IJCAI2023 | https://github.com/Wu0409/HSC_WSSS |
 | [Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching](https://ieeexplore.ieee.org/document/10367821) | ASDT | TIP2023 | https://anonymous.4open.science/r/ASDT-75D3 |
 | [All-pairs Consistency Learning for Weakly Supervised Semantic Segmentation](https://ieeexplore.ieee.org/document/10350839) | ACR | ICCV2023 | -- |
