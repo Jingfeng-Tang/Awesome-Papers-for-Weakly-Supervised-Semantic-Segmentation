@@ -4,6 +4,7 @@
 ## 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_From_SAM_to_CAMs_Exploring_Segment_Anything_Model_for_Weakly_CVPR_2024_paper.pdf) | S2C | CVPR 2024 | https://github.com/sangrockEG/S2C |
 | [Foundation Model Assisted Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_Foundation_Model_Assisted_Weakly_Supervised_Semantic_Segmentation_WACV_2024_paper.pdf) | FMA | WACV 2024 | https://github.com/HAL-42/FMA-WSSS |
 | [Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | WeCLIP | CVPR 2024 | https://github.com/zbf1991/WeCLIP |
 | [Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization](https://ieeexplore.ieee.org/document/9756329) | AdvCAM | TPAMI 2024 | -- |
