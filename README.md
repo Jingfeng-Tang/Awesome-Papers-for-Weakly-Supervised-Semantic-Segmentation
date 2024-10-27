@@ -74,6 +74,7 @@
 ## 2020
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://proceedings.neurips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf) | CONTA | NeurIPS 2020 | https://github.com/dongzhang89/CONTA |
 | [Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf) | SEAM | CVPR 2020 | https://github.com/YudeWang/SEAM |
 
 
