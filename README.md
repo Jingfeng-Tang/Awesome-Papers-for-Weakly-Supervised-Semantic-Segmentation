@@ -47,7 +47,6 @@
 ## 2022
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
-| [CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/6705/6559) | CIAN | AAAI 2022 | -- |
 | [Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/20108) | AMR | AAAI 2022 | https://github.com/JayQine/AMR |
 | [Looking Beyond Single Images for Weakly Supervised Semantic Segmentation Learning](https://ieeexplore.ieee.org/abstract/document/9760057) | MCIS | TPAMI 2022 | https://github.com/GuoleiSun/MCIS_wsss |
 | [Weakly-Supervised Semantic Segmentation with Visual Words Learning and Hybrid Pooling](https://arxiv.org/pdf/2202.04812v1) | VWE | IJCV 2022 | https://github.com/rulixiang/vwe/tree/master/v2 |
@@ -75,6 +74,7 @@
 ## 2020
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
+| [CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/6705/6559) | CIAN | AAAI 2022 | -- |
 | [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://proceedings.neurips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf) | CONTA | NeurIPS 2020 | https://github.com/dongzhang89/CONTA |
 | [Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf) | SEAM | CVPR 2020 | https://github.com/YudeWang/SEAM |
 
